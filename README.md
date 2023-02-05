@@ -4,7 +4,7 @@
 An automated theorem prover based on Hilbert system for  propositional logic.
 
 Usage:
-			```     > python3 hilbert.py ```
+	``` > python3 hilbert.py ```
 
 When prompted, enter the formula in the specified format.
 Only formulas constructed with ⊥ (bottom) and ⊃ (implication) connectives are allowed as input.
